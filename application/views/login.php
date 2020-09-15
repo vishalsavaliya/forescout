@@ -1,4 +1,3 @@
-<!-- SECTION -->
 <section class="parallax fullscreen" style="background-image: url(<?= base_url() ?>front_assets/images/bg_login.jpg); top: 0; padding-top: 0px;">
     <div class="container container-fullscreen">
         <div class="text-middle">
@@ -41,7 +40,7 @@
         </div>
     </div>
 </section>
-
+ 
 <script type="text/javascript">
     $(document).ready(function () {
         $("#btn_login").on("click", function () {
